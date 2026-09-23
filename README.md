@@ -30,7 +30,7 @@ Users, projects, and tasks are implemented. Automated test coverage, API documen
 - Bean Validation
 - Lombok
 
-The Maven project, application entry point, PostgreSQL local profile, and first Flyway migration are in place. No domain entities or API endpoints have been created.
+The Maven project, application entry point, PostgreSQL local profile, and first Flyway migration are in place. User, project, and task entities and REST endpoints are implemented.
 
 ## Architecture
 
