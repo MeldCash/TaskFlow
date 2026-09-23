@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: taskflow-backend
+  profiles:
+    default: bootstrap
+
+server:
+  port: 8080
